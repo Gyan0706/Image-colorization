@@ -16,12 +16,3 @@ pip install requirements.txt
 ```
 python main_colorize.py -i imgs_in/1.jpg
 ```
-gif
-
-img img
-img img
-img img
-img img
-img img
-img img
-img img
